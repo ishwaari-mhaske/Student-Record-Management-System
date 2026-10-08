@@ -56,16 +56,3 @@ Student_Record_Management_FirstYear/
 |   `-- 05_dictionaries.py
 `-- screenshots/
 ```
-
-## How to Run
-
-1. Open the folder in VS Code.
-2. Open `student_management_system.py`.
-3. Open the VS Code terminal.
-4. Run:
-
-```text
-python student_management_system.py
-```
-
-5. Use the menu by entering the number of the operation.
