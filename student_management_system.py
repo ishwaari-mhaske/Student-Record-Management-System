@@ -1,5 +1,5 @@
 # Student Record and Academic Management System
-# Unit 2 - Data Structures and Collection Management
+# Data Structures and Collection Management
 
 students = []
 
@@ -273,8 +273,4 @@ def menu():
             print("Invalid choice. Please try again.")
 
 
-# Add sample records before starting.
-# This makes it easier to test the program.
-add_demo_students()
 
-menu()
