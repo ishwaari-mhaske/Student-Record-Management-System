@@ -5,7 +5,7 @@
 ### Project Objective
 This project is a simple Python-based Student Record and Academic Management System. It stores student information and performs basic operations such as adding, searching, updating, deleting and displaying records.
 
-The project is written at a first-year BTech Python level and demonstrates the five data structures required in the assignment:
+The project demonstrates the five data structures required in the assignment:
 - Strings
 - Lists
 - Tuples
