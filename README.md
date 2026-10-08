@@ -37,5 +37,5 @@ The project demonstrates the five data structures required in the assignment:
 ## Seven-Stage Workflow
 The project follows:
 Problem Understanding -> Algorithm Design -> Flowchart -> Pseudocode -> Python Implementation -> Testing -> Documentation
-`-- screenshots/
-```
+
+
