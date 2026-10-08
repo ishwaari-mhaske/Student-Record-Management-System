@@ -1,6 +1,6 @@
 # Student Record and Academic Management System
 
-## Unit 2 - Data Structures and Collection Management
+## Data Structures and Collection Management
 
 ### Project Objective
 This project is a simple Python-based Student Record and Academic Management System. It stores student information and performs basic operations such as adding, searching, updating, deleting and displaying records.
@@ -37,22 +37,5 @@ The project is written at a first-year BTech Python level and demonstrates the f
 ## Seven-Stage Workflow
 The project follows:
 Problem Understanding -> Algorithm Design -> Flowchart -> Pseudocode -> Python Implementation -> Testing -> Documentation
-
-## Folder Structure
-
-```text
-Student_Record_Management_FirstYear/
-|-- student_management_system.py
-|-- assignment_report.docx
-|-- README.md
-|-- test_report.md
-|-- docs/
-|-- flowcharts/
-|-- exercises/
-|   |-- 01_strings.py
-|   |-- 02_lists.py
-|   |-- 03_tuples.py
-|   |-- 04_sets.py
-|   `-- 05_dictionaries.py
 `-- screenshots/
 ```
