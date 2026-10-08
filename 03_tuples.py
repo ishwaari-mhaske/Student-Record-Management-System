@@ -1,6 +1,6 @@
 # Tuple practice
 
-student_details = ("101", "Ishwari", "AIDS")
+student_details = ("101", "Nayan", "AIDS")
 
 print("Tuple:", student_details)
 
