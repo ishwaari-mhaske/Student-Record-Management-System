@@ -1,6 +1,6 @@
 # String practice for Student Management System
 
-name = "  ishwari mhaske  "
+name = "  Nayan Sharma  "
 department = "artificial intelligence and data science"
 
 print("Original name:", name)
