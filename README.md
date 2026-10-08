@@ -69,8 +69,3 @@ python student_management_system.py
 ```
 
 5. Use the menu by entering the number of the operation.
-
-## Important
-The program starts with two sample student records so that the operations can be tested easily. You can also add your own records.
-
-Screenshots of your own program execution should be added to the `screenshots` folder before GitHub submission.
