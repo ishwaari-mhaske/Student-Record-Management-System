@@ -2,7 +2,7 @@
 
 student = {
     "roll": "101",
-    "name": "Ishwari",
+    "name": "Nayan",
     "department": "AIDS",
     "marks": [78, 82, 75]
 }
@@ -13,7 +13,7 @@ print("Department:", student["department"])
 print("All keys:", student.keys())
 print("All values:", student.values())
 
-student["email"] = "ishwari@example.com"
+student["email"] = "nayan@example.com"
 print("After adding email:", student)
 
 student["department"] = "CSE"
